@@ -2,5 +2,4 @@ title: Andrew Key
 logo: /assets/img/me_circle.png
 # theme: jekyll-theme-minimal
 remote_theme: pages-themes/modernist@v0.2.0
-plugins:
-- jekyll-remote-theme 
+plugins: jekyll-remote-theme 
